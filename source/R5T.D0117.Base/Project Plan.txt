@@ -1,0 +1,4 @@
+R5T.D0117.Base - Base service definitions library for ICompilationUnitContextProvider and related services.
+
+Goals
+

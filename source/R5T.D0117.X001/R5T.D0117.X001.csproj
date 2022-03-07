@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\R5T.D0116\source\R5T.D0116.X001\R5T.D0116.X001.csproj" />
+    <ProjectReference Include="..\..\..\R5T.T0034\source\R5T.T0034.X009\R5T.T0034.X009.csproj" />
+    <ProjectReference Include="..\..\..\R5T.T0036\source\R5T.T0036.X004\R5T.T0036.X004.csproj" />
+    <ProjectReference Include="..\..\..\R5T.T0040\source\R5T.T0040.X001\R5T.T0040.X001.csproj" />
+    <ProjectReference Include="..\..\..\R5T.T0044\source\R5T.T0044.X001\R5T.T0044.X001.csproj" />
+    <ProjectReference Include="..\..\..\R5T.T0045\source\R5T.T0045.X001\R5T.T0045.X001.csproj" />
+    <ProjectReference Include="..\..\..\R5T.T0127\source\R5T.T0127.X001\R5T.T0127.X001.csproj" />
+    <ProjectReference Include="..\..\..\R5T.X0002\source\R5T.X0002\R5T.X0002.csproj" />
+    <ProjectReference Include="..\..\..\R5T.X0003\source\R5T.X0003.X002\R5T.X0003.X002.csproj" />
+    <ProjectReference Include="..\..\..\R5T.X0003\source\R5T.X0003.X003\R5T.X0003.X003.csproj" />
+    <ProjectReference Include="..\..\..\R5T.X0003\source\R5T.X0003.X004\R5T.X0003.X004.csproj" />
+    <ProjectReference Include="..\..\..\R5T.X0003\source\R5T.X0003\R5T.X0003.csproj" />
+    <ProjectReference Include="..\R5T.D0117.Base\R5T.D0117.Base.csproj" />
+  </ItemGroup>
+
+</Project>

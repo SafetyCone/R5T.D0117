@@ -60,7 +60,7 @@ namespace System
                                     var instanceProperties = Instances.PropertyGenerator.GetInstancesInstanceProperties(
                                         instanceTuples)
                                         // Indent.
-                                        .Select(xProperty => xProperty.Indent(
+                                        .Select(xProperty => xProperty.IndentBlock_Old(
                                             Instances.Indentation.Property()))
                                         .Now();
 
